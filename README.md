@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Mohammad Ali Talebi 🦫
 
-<!--
-**ThisNotAlfred/ThisNotAlfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I do programming. I mean I do programming and tinkering. I like to tinker with stuff like linux and operating systems. 😃
 
-Here are some ideas to get you started:
+I mostly program in Rust and C/C++. I used to program in Haskell too. I love compilers and operating systems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## things I'm focused on at the moment:
+- Linux 🐧
+- Rust 🦀
+- C/C++ 🖥️
+- Operating Systems internals 💽
+
+## things I'm planning to learn: 
+- Gleam 💫
+- Virtual Machines 💻
+- Compilers (again) 🫠
