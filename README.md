@@ -11,6 +11,5 @@ I mostly program in Rust and C/C++. I used to program in Haskell too. I love com
 - Operating Systems internals 💽
 
 ## Things I'm planning to learn: 
-- Gleam 💫
 - Virtual Machines 💻
 - Compilers (again) 🫠
